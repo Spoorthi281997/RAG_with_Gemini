@@ -34,6 +34,7 @@ This powerful combination enables the creation of sophisticated AI applications 
 3. Splits the text into appropriate length chunks.
 4. Computes an embedding to be stored in the vector database.
 5. Creates a prompt template to provide a standard response.
+
 Once the vector database is created,
 1. A user can query the system with raw text.
 2. An embedding is computed for the query.
